@@ -1,4 +1,4 @@
-(defproject google-login "0.1.0-SNAPSHOT"
+(defproject google-login "0.0.1"
   :description "Script to login to site with google auth"
   :url ""
   :dependencies [[org.clojure/clojure "1.7.0"]
